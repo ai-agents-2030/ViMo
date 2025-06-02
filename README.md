@@ -1,7 +1,7 @@
 # ViMo
 
 
-**ViMo** is a GUI world model designed to predict the next state of a graphical user interface (GUI) in  **image** and **text** form.
+**ViMo** is a GUI world model designed to predict the next state of a graphical user interface (GUI) in image modality.
 
 
 ## 📦 Installation
